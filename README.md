@@ -21,3 +21,10 @@ and to find the predictions  "
 - Data preprocessing completed  
 - Model training pipeline ready  
 - Deployment setup in progress
+
+## Tech Stack
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Flask
+- AWS Elastic Beanstalk
